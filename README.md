@@ -101,4 +101,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Happy hacking with your QuirkQuack device! If you encounter any issues or have ideas for improvements, feel free to open an issue or contribute to the project.
-```
