@@ -18,15 +18,15 @@ These instructions will help you get started with setting up and using your Quir
 - Arduino IDE
 - Digispark libraries
 
-### Materials
+### Materials for 1 QuirkQuack
 
--QuirkQuack PCB
--ATtiny85-20SU
--SMD USB-A Male
--1N5819 SMD Diode
--2x SOD-323 Zener Diode +5V
--2x R0603 45Ω Resistor
--R0603 1kΩ Resistor
+- 1x QuirkQuack PCB
+- 1x ATtiny85-20SU
+- 1x SMD USB-A Male
+- 1x 1N5819 SMD Diode
+- 2x SOD-323 Zener Diode +5V
+- 2x R0603 45Ω Resistor
+- 1x R0603 1kΩ Resistor
 
 ## Installing bootloader
 
