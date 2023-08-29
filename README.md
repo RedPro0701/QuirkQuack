@@ -18,27 +18,58 @@ These instructions will help you get started with setting up and using your Duck
 - Arduino IDE
 - Digispark libraries
 
-### Installation
+### Materials
 
-1. Clone this repository to your local machine.
+-DuckerRubby PCB
+-ATtiny85-20SU
+-SMD USB-A Male
+-1N5819 SMD Diode
+-2x SOD-323 Zener Diode +5V
+-2x R0603 45Ω Resistor
+-R0603 1kΩ Resistor
 
-   ```sh
-   git clone https://github.com/RedPro0701/DuckerRubby.git
-   ```
+## Installing bootloader
 
-2. Open the project in the Arduino IDE.
+-Connect you ISP Programmer to the ISP Pins
 
-3. Install the Digispark libraries if you haven't already.
+-Software: AVRDUDESS
+   -https://github.com/ZakKemble/AVRDUDESS/releases
+-Settings:
+   Programmer: The one you want to use.
+   Port: Whats ever port the programmer is connected to.
+   MCU: ATtiny85
+   Flash: 
+      Download this hey file: https://github.com/phikshun/micronucleus/blob/master/firmware/releases/t85_default.hex
+      Save it to some location
+      Enter the location into the text field
+   Format: Intel Hex
+-Press Go and it should upload the bootloader
 
-4. Connect your DuckerRubby device to your computer using a compatible USB cable.
+### Setting up Arduino IDE
 
-5. Configure your script in the `script.txt` file.
+1. In the Preferences tab add this line to the Additional Boardmanager URLS:
+
+http://digistump.com/package_digistump_index.json
+
+3. Go to Tools than Boards then Boardmanager and search "Digispark AVR Boards" and press install.
+
+4. Then Select "Digispark (Default - 16.5Mhz)" as the board.
+
+### Programming
+
+1. Make a new scetch in Arduino IDE.
+
+2. Install the Digispark libraries if you haven't already.
+
+4. Connect your DuckerRubby device to your computer.
+
+5. Happy Coding. 
 
 ### Uploading Scripts
 
-1. Edit the `script.txt` file in the repository to include the desired keyboard commands.
+1. Press Compile and upload the script to the DuckerRubby device using the Arduino IDE.
 
-2. Compile and upload the script to the DuckerRubby device using the Arduino IDE.
+2. Digispark Scripts: "https://github.com/CedArctic/DigiSpark-Scripts"
 
 ### Usage
 
