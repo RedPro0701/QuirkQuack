@@ -98,6 +98,26 @@ This project is licensed under the [MIT License](LICENSE).
 - The Ducky Script language for keyboard emulation.
 - Digispark for the libraries and inspiration.
 
+## Disclaimer
+
+By purchasing and using this rubber ducky, you acknowledge and agree to the following terms and conditions:
+
+Assumption of Risk: The use of this rubber ducky involves certain inherent risks. You understand and accept that any damage or harm that may result from the use of this product is entirely your responsibility. We are not responsible for any accidents, injuries, or property damage that may occur.
+
+Proper Use: This rubber ducky is intended for recreational purposes only and should be used in a safe and responsible manner. Misuse of this product may lead to unwanted consequences, and you are solely responsible for any such actions.
+
+Supervision: If this rubber ducky is intended for use by children or individuals who require supervision, it is your responsibility to ensure proper supervision at all times. We do not assume any liability for unsupervised use or any related incidents.
+
+Maintenance and Inspection: Regularly inspect and maintain your rubber ducky to ensure it is in safe and working condition. Any defects or damage should be addressed promptly to avoid potential risks.
+
+Limitation of Liability: To the fullest extent permitted by law, we disclaim any and all liability for any direct, indirect, incidental, consequential, or punitive damages arising from the use of this rubber ducky. This includes but is not limited to damage to personal property, bodily injury, or any other losses or harm.
+
+Compliance with Local Laws: It is your responsibility to ensure that the use of this rubber ducky complies with all applicable local, state, and federal laws and regulations. We are not liable for any legal consequences resulting from non-compliance.
+
+Modification: Any modifications or alterations made to this rubber ducky may compromise its safety and void any warranties or guarantees. We are not responsible for any consequences resulting from unauthorized modifications.
+
+By using this rubber ducky, you acknowledge that you have read, understood, and accepted this disclaimer in its entirety. You agree to release us from any liability for any damages, injuries, or losses that may occur during the use of this product. If you do not agree with these terms, please refrain from using this rubber ducky.
+
 ---
 
 Happy hacking with your QuirkQuack device! If you encounter any issues or have ideas for improvements, feel free to open an issue or contribute to the project.
