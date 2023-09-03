@@ -32,9 +32,9 @@ These instructions will help you get started with setting up and using your Quir
 
 -Connect you ISP Programmer to the ISP Pins
 
--Software: AVRDUDESS
+- Software: AVRDUDESS
    -https://github.com/ZakKemble/AVRDUDESS/releases
--Settings:
+- Settings:
    Programmer: The one you want to use.
    Port: Whats ever port the programmer is connected to.
    MCU: ATtiny85
@@ -43,7 +43,7 @@ These instructions will help you get started with setting up and using your Quir
       Save it to some location
       Enter the location into the text field
    Format: Intel Hex
--Press Go and it should upload the bootloader
+- Press Go and it should upload the bootloader
 
 ### Setting up Arduino IDE
 
