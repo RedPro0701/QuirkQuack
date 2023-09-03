@@ -39,7 +39,7 @@ These instructions will help you get started with setting up and using your Quir
    - Port: Whats ever port the programmer is connected to.
    - MCU: ATtiny85
    - Flash: 
-      - Download this hey file: https://github.com/phikshun/micronucleus/blob/master/firmware/releases/t85_default.hex
+      - Download this hex file: https://github.com/phikshun/micronucleus/blob/master/firmware/releases/t85_default.hex
       - Save it to some location
       - Enter the location into the text field
    - Format: Intel Hex
