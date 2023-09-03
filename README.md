@@ -100,7 +100,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Disclaimer
 
-By purchasing and using this rubber ducky, you acknowledge and agree to the following terms and conditions:
+By using this rubber ducky, you acknowledge and agree to the following terms and conditions:
 
 Assumption of Risk: The use of this rubber ducky involves certain inherent risks. You understand and accept that any damage or harm that may result from the use of this product is entirely your responsibility. We are not responsible for any accidents, injuries, or property damage that may occur.
 
@@ -116,7 +116,7 @@ Compliance with Local Laws: It is your responsibility to ensure that the use of 
 
 Modification: Any modifications or alterations made to this rubber ducky may compromise its safety and void any warranties or guarantees. We are not responsible for any consequences resulting from unauthorized modifications.
 
-By using this rubber ducky, you acknowledge that you have read, understood, and accepted this disclaimer in its entirety. You agree to release us from any liability for any damages, injuries, or losses that may occur during the use of this product. If you do not agree with these terms, please refrain from using this rubber ducky.
+By using this rubber ducky, you acknowledge that you have read, understood, and accepted this disclaimer in its entirety. You agree to release us from any liability for any damages, or losses that may occur during the use of this rubber ducky. If you do not agree with these terms, please refrain from using this rubber ducky.
 
 ---
 
