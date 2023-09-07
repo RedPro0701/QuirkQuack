@@ -42,7 +42,7 @@ These instructions will help you get started with setting up and using your Quir
       - Download this hex file: https://github.com/phikshun/micronucleus/blob/master/firmware/releases/t85_default.hex
       - Save it to some location
       - Enter the location into the text field
-   - Format: Intel Hex
+   - Format: Intel Hex in AVRDUDESS
 - Press Go and it should upload the bootloader
 
 ### Setting up Arduino IDE
