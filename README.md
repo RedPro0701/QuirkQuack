@@ -91,7 +91,7 @@ Contributions are welcome! If you'd like to contribute to QuirkQuack, please fol
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL-3.0 license](LICENSE).
 
 ## Acknowledgments
 
