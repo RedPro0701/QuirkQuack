@@ -5,7 +5,7 @@ QuirkQuack is a project that aims to create a simple Rubber Ducky device based o
 ## Features
 
 - Emulates a keyboard to inject predefined scripts into a target computer.
-- Compact and cost-effective, using the ATtiny85 microcontroller.
+- Compact and cost-effective, using the ATtiny85-20SU or ATtiny45-20su microcontroller.
 - Compatible with the Digispark libraries and ecosystem.
 
 ## Getting Started
