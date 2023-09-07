@@ -14,14 +14,14 @@ These instructions will help you get started with setting up and using your Quir
 
 ### Prerequisites
 
-- QuirkQuack board (based on ATtiny85)
+- QuirkQuack board (based on ATtiny85-20SU or ATtiny45-20su)
 - Arduino IDE
 - Digispark libraries
 
 ### Materials for 1 QuirkQuack
 
 - 1x QuirkQuack PCB
-- 1x ATtiny85-20SU
+- 1x ATtiny85-20SU / ATtiny45-20su
 - 1x SMD USB-A Male
 - 1x 1N5819 SMD Diode
 - 2x SOD-323 Zener Diode +5V
@@ -39,7 +39,7 @@ These instructions will help you get started with setting up and using your Quir
    - Port: Whats ever port the programmer is connected to.
    - MCU: ATtiny85
    - Flash: 
-      - Download this hex file: https://github.com/phikshun/micronucleus/blob/master/firmware/releases/t85_default.hex
+      - Download this hex file: https://github.com/phikshun/micronucleus/blob/master/firmware/releases/t85_default.hex or https://github.com/phikshun/micronucleus/blob/master/firmware/releases/t45_default.hex
       - Save it to some location
       - Enter the location into the text field
    - Format: Intel Hex in AVRDUDESS
